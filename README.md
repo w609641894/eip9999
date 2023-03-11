@@ -449,7 +449,7 @@ interface IMNFTCoreReceiver {
 }
 ```
 
-### 代币操纵
+### 通证交易
 
 #### 场景
 
