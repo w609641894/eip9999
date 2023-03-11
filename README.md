@@ -1,7 +1,7 @@
 ---
 eip: 9999
-title: Semi-Fungible Token
-description: 
+title: 元宇宙公开资源协议（Metaverse Public Source Protocol）
+description: 元宇宙公共资源协议的技术标准
 author: 
 discussions-to: 
 status: Final
@@ -26,7 +26,7 @@ source与结构体也是一对多的关系，结构体实际上是token化的结
 
 
 ## 动机（Motivation）
-这是致力于规范元宇宙公共资源库的技术标准，也是一个开放协议。它是“Code is Law”的一次实践，即“Smart Contract is Law”，只要你的智能合约与该技术标准对应的智能合约进行了交互，那就意味着接受了将自己的智能合约及其所有资源定为元宇宙公共资源这一协议。反过来，这一智能合约就成为元宇宙里所有公共资源的检索库。
+致力于规范元宇宙公共资源开放协议暨元宇宙公共资源库的技术标准。它是“Code is Law”的一次实践，即“Smart Contract is Law”，只要你的智能合约与该技术标准对应的智能合约进行了交互，那就意味着接受了将自己的智能合约及其所有资源定为元宇宙公共资源这一协议。同时，这一智能合约就成为元宇宙里所有公共资源的检索库。
 从技术上，元宇宙需要一种灵活的资源及资源量化的管理工具，该标准提供了便利的定义接口集。
 
 
