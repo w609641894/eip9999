@@ -4,7 +4,7 @@ title: 元宇宙公开资源协议（Metaverse Public Source Protocol）
 description: 元宇宙公共资源协议的技术标准
 author: 
 discussions-to: 
-status: Final
+status: Draft
 type: Standards Track
 category: ERC
 created: 2023-03-08
