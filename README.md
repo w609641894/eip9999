@@ -2,7 +2,7 @@
 eip: 9999
 title: 元宇宙公开资源协议（Metaverse Public Source Protocol）
 description: 元宇宙公共资源协议的技术标准
-author: 
+author: Changchun Chen, Derek Zhou(@zhous,@zhous98@daotodon.me)
 discussions-to: 
 status: Draft
 type: Standards Track
